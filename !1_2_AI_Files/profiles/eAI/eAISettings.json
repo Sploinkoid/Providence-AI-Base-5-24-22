@@ -1,0 +1,6 @@
+{"eAILogLevel":"TRACE",
+"MaxDynamicPatrols": 2,
+"AccuracyMin":0.2,
+"AccuracyMax":0.6,
+"LoadoutDirectories":"$profile:ExpansionMod\\AI\\Loadouts\\",
+"Admins":["76561199150299696","76561199233288555"]}
